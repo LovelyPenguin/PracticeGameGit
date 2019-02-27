@@ -62,7 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\BackgroundController.cs" />
-    <Compile Include="Assets\Script\Player\PlayerMove.cs" />
+    <Compile Include="Assets\Script\Player\HelthPointManager.cs" />
+    <Compile Include="Assets\Script\Player\PlayerBullet.cs" />
+    <Compile Include="Assets\Script\Player\PlayerControl.cs" />
+    <Compile Include="Assets\Script\Player\PlayerFireScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/yun_pyo_Lee/Documents/GitHub/PracticeGameGit/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

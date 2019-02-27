@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\yun_pyo_Lee\\Documents\\GitHub\\PracticeGameGit\\Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

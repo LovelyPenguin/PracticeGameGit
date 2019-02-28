@@ -19,6 +19,7 @@ public class PlayerControl : MonoBehaviour
     void Update()
     {
         PlayerContoller();
+        SetPlayground();
     }
 
     private void PlayerContoller()
@@ -45,6 +46,26 @@ public class PlayerControl : MonoBehaviour
         if (Input.GetKey(KeyCode.RightArrow))
         {
             transform.Translate(Vector3.right * horizontalSpeed * Time.deltaTime);
+        }
+    }
+
+    private void SetPlayground()
+    {
+        if (transform.position.x >= 8.35)
+        {
+            transform.position = new Vector3(8.35f, transform.position.y);
+        }
+        if (transform.position.x <= -8.35)
+        {
+            transform.position = new Vector3(-8.35f, transform.position.y);
+        }
+        if (transform.position.y >= 4.5)
+        {
+            transform.position = new Vector3(transform.position.x, 4.5f);
+        }
+        if (transform.position.y <= -4.5)
+        {
+            transform.position = new Vector3(transform.position.x, -4.5f);
         }
     }
 }

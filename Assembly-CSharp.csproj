@@ -62,6 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\BackgroundController.cs" />
+    <Compile Include="Assets\Script\EnemyHPScript.cs" />
+    <Compile Include="Assets\Script\EnemyMove.cs" />
+    <Compile Include="Assets\Script\ItemMove.cs" />
+    <Compile Include="Assets\Script\ItemSpawner.cs" />
+    <Compile Include="Assets\Script\ParticleDestroy.cs" />
+    <Compile Include="Assets\Script\Player\FireControlSystem.cs" />
     <Compile Include="Assets\Script\Player\HelthPointManager.cs" />
     <Compile Include="Assets\Script\Player\PlayerBullet.cs" />
     <Compile Include="Assets\Script\Player\PlayerControl.cs" />

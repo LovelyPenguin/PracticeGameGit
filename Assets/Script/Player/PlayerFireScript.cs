@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class PlayerFireScript : MonoBehaviour
 {
-    public GameObject bullet;
-    public Transform fireLoacation;
-    public float firingTimer;
-    private float timer;
+    [SerializeField]
+    private GameObject bullet;
+    [SerializeField]
+    //private GameObject muzzleFlash;
 
     void Start()
     {
@@ -17,20 +17,12 @@ public class PlayerFireScript : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.Space))
-        {
-            Fire();
-        }
+
     }
 
-    void Fire()
+    public void Fire()
     {
-        timer += Time.deltaTime;
-
-        if (timer >= firingTimer)
-        {
-            Instantiate(bullet, fireLoacation.position, fireLoacation.rotation);
-            timer = 0f;
-        }
+        //Instantiate(muzzleFlash, transform.position, Quaternion.identity);
+        Instantiate(bullet, transform.position, transform.rotation);
     }
 }

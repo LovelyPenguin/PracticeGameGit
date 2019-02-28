@@ -1,6 +1,7 @@
-C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\Assembly-CSharp.dll
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\Assembly-CSharp.dll.CodeAnalysisLog.xml
+C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\Assembly-CSharp.dll.lastcodeanalysissucceeded
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\Boo.Lang.dll
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\mscorlib.dll
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\System.Core.dll
@@ -162,7 +163,8 @@ C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\UnityEngine
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\obj\Debug\Assembly-CSharp.dll
 C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\obj\Debug\Assembly-CSharp.pdb
-C:\Users\yun_pyo_Lee\Documents\GitHub\PracticeGameGit\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
